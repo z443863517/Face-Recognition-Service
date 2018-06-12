@@ -5,6 +5,15 @@ v1.0
 此系统用于人像获取，识别功能，检索识别记录。
 
 
+项目结构：
+
+-face-recognition-parent
+ --face-recognition-common
+ --face-recognition-core
+   --face-recognition-pojo
+   --face-recognition-dao
+   --face-recognition-service
+   --face-recognition-web
 Set UP :
 port：8082
 Test url :http://localhost:8082/page/login 
